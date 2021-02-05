@@ -1,1 +1,3 @@
-# git_study_sect8
+# My Website
+
+This is a really awesome website
